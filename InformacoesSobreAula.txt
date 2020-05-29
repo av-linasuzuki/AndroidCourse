@@ -1,0 +1,4 @@
+- Criado a super classe Animal
+- Criado a classe Cao 
+- Criado a classe Passaro
+- Alterado o arquivo MainActivity.java
